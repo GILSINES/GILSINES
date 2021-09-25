@@ -8,7 +8,7 @@ public class massage {
 		
 		
 		
- JOptionPane.showMessageDialog(null, "fish");
+ JOptionPane.showMessageDialog(null, "fish a");
 		
 	//aavva	
 		
